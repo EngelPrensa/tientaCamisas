@@ -57,6 +57,7 @@ header{
 }
 .navegacion{
     margin-top: 1.2rem;
+    font-size: 2.5rem;
     display: flex;
     justify-content: center;
     gap: 1.5rem;
@@ -198,7 +199,7 @@ grid-template-rows: repeat(2, auto);
 background-color: var(--amarillo);
 border: none;
 font-family: var(--Fuente-primari);
-font-size: 2rem;
+font-size: 1.8rem;
 padding: 2rem;
 transition: background-color .5s ease;
 appearance: none;
@@ -210,6 +211,7 @@ cursor: pointer;
 }
 
 .campo__formulario{
+    font-size: 1.8rem;
     border-color: var(--negro2);
     border-width: 1rem;
     border-style: solid;
